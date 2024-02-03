@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="task1.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    
+</head>
+<body>
+    
+    <nav>
+        <i class="fa-solid fa-pizza-slice fa-bounce fa-sm"></i>
+        <li>Cool!Pizza</li>
+        <div id="part2">
+        <li>BuyPizza</li>
+        <li>Contact</li>
+        <li>Menu</li>
+        <input type="send message" placeholder="send message">
+    
+    </div>
+    </nav>
+    <main>
+        Pizza
+    </main>
+    <aside>
+        contact!
+    </aside>
+    <article>Pizzeria in the heart of the town</article>
+    <section id="para">
+        <p id="para1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos natus dolores maxime..</p>
+        <p id="para2">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Distinctio quibusdam animi veritatis sunt? Omnis, soluta?</p>
+        <p id="para3">Lorem ipsum dolor sit amet consectetur.</p>
+    </section>
+   <h1>Get your slice of perfection</h1>
+ <footer>
+</footer>
+<h2>
+    <p id="para4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt animi ad labore nihil.</p>
+    <p id="para5"> Quidem ea, omnis modi aut velit error eius doloribus officia sed expedita.</p>
+    <p id="para6"> Harum rem , dolor dicta tempore fugit autem?</p>
+    
+    <p id="para7">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem natus ipsum corporis.</p>
+    <p id="para8"> Consectetur officiis tempora quos, eligendi labore quidem harum.</p>
+</h2>
+
+<h3></h3>
+<h4>Get it While it's hot</h4>
+<h5>We're Careful
+    <p id="demo">We're certified</p>
+</h5>
+ <h6>
+    <p id="para9">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur.</p>
+    <p id="para10">Corporis magni eveniet ea temporibus repellendus, esse optio vitae?</p>
+    <p id="para11">consectetur adipisicing elit. Aspernatur maxime ut des id deleniti?</p>
+    <p id="para12"> Facilis soluta amet aliquam repudiandae quas repellendus?.</p>
+ </h6>
+<div>
+    <p id="demo1">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+    <p id="demo2"> Minima culpa, et numquam praesentium voluptates ea debitis?</p>
+    <p id="demo3"> Sunt aliquam eos, recusandae atque dignissimos laborum!</p>
+    <p id="demo4"> sit amet consectetur adipisicing elit. Recusandae?</p>
+</div>
+<section id="demo5">
+</section>
+<main id="demo6">Feel Hunger!Order your favorite food</main>
+<article id="demo7">contact!</article>
+<div id="demo8"></div>
+<nav id="demo9"></nav>
+<footer id="demo10"></footer>
+<h1 id="demo11"> Pizza menu</h1>
+<h2>
+    <p id="demo12">Barbecue Pizza</p>
+    <p id="demo13">$8</p>
+    <p id="demo14">Chicken Breast</p>
+    <p id="demo15">$12</p>
+    <p id="demo16">Greek Pizza</p>
+    <p id="demo17">$15</p>
+    <p id="demo18">Triple Crown</p>
+    <p id="demo19">$4</p>
+    <p id="demo20">Pepperoni</p>
+    <p id="demo21">$11</p>
+    <p id="demo22">Paneer Makhani pizza</p>
+    <p id="demo23">$45</p>
+    <p id="demo24">Mexican Green Wave</p>
+    <p id="demo25">$30</p><br><br><br><br>
+    <nav>
+        <p id="demo26">Sign up for our update</p>
+        
+    </nav><br><br><br>
+    <center><form action="">
+        
+            <table bgcolor="white" >
+                <tr>
+                    <td>
+                        <label for="aa" >Name</label>
+                    </td>
+                    <td>
+                        <input type="text" id="aa" name="aa" placeholder="Name" required >
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="bb">Email</label>
+                    </td>
+                    <td>
+                        <input type="email" id="bb" name="bb" placeholder="Email" required>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="cc">Phone Number</label>
+                    </td>
+                    <td>
+                        <input type="number" id="cc" name="cc" placeholder="Phone Number" required>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="dd">Your Message</label>
+                    </td>
+                    <td>
+                        <input type="text" id="dd" name="dd">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                       <center> <button>Send Message</button></center>
+                    </td>
+                </tr>
+            </table>
+        
+    </form></center
+    
+</h2>
+  <div id="demo27"></div>
+  <h4>
+    <i class="fa-brands fa-instagram fa-beat-fade fa-xs"></i>
+    <p id="demo28">INSTAGRAM YOUTUBE FACEBOOK</p>
+    <p id="demo29">+1(123)123 45-67</p>
+  </h4>
+</body>
+</html>

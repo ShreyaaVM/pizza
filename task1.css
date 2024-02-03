@@ -1,0 +1,421 @@
+*{
+    margin: 0;
+}
+body{
+    background-image: url("https://cdn.pixabay.com/photo/2018/04/11/03/13/food-3309418_640.jpg");
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+    /* background-attachment: fixed; */
+
+}
+nav{
+    height: 50px;
+    width: 100vw;
+    background-color:grey;
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    /* background-color: white; */
+    color:white;
+    font-size: 40px;
+    color: orange;
+    
+    
+     
+    
+}
+#part2{
+    width: 700px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 20px;
+    color: white;
+
+}
+main{
+    font-size: 200px;
+    color: white;
+    margin-left: 200px;
+    margin-top: 110px;
+    font-style: oblique;
+}
+aside{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    background-image: radial-gradient(white,white 100% );
+    border-radius: 50%;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 220px;
+    margin-top: 30px;
+}
+article{
+    font-size: 40px;
+    color:pink;
+    margin-left: 600px;
+    margin-top: -155px;
+}
+#para2{
+    position: relative;
+    margin-left: 600px;
+    margin-top: 15px;
+    font-size: 20px;
+    color: white;
+}
+#para1{
+    position: relative;
+    margin-left: 600px;
+    margin-top: 15px;
+    font-size: 20px;
+    color: white;
+}
+#para3{
+    position: relative;
+    margin-left: 600px;
+    margin-top: 15px;
+    font-size: 20px;
+    color: white;
+}
+body{
+    background-color: grey;
+}
+h1{
+    font-size: 60px;
+    color: orange;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 170px;
+    margin-left: 330px;
+}
+footer{
+    height: 400px;
+    width: 600px;
+    background-color: black;
+    margin-left: 915px;
+    margin-top: 50px;
+    background-image: url("https://cdn.pixabay.com/photo/2017/11/23/16/57/pizza-2973200_640.jpg");
+    background-repeat: no-repeat;
+    background-size:600px 400px;
+    
+    
+}
+#para4{
+    position: relative;
+    margin-left: 150px;
+    margin-top:-370px;
+    font-size: 20px;
+    color: white;
+    
+}
+#para5{
+    position: relative;
+    margin-left: 150px;
+    margin-top: 5px;
+    font-size: 20px;
+    color: white;
+}
+#para6{
+    position: relative;
+    margin-left: 150px;
+    margin-top: 5px;
+    font-size: 20px;
+    color: white;
+}
+#para7{
+    position: relative;
+    margin-left: 150px;
+    margin-top: 35px;
+    font-size: 20px;
+    color: white;
+}
+#para8{
+    position: relative;
+    margin-left: 150px;
+    margin-top: 8px;
+    font-size: 20px;
+    color: white;
+}
+h3{
+    height: 400px;
+    width: 100%;
+    background-image: url("https://cdn.pixabay.com/photo/2018/10/19/20/31/pizza-3759514_1280.jpg");
+    background-repeat: no-repeat;
+    background-size:100% 400px;
+    /* background-attachment: fixed; */
+    margin-top: 400px;
+
+}
+h4{
+    font-size: 70px;
+    color: orange;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 150px;
+    margin-left: 200px;
+    font-style: italic;
+}
+h5{
+    font-size: 30px;
+    color: burlywood;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 220px;
+}
+#para9{
+    position: relative;
+    margin-left: 220px;
+    margin-top: 15px;
+    font-size: 20px;
+    color: white;
+}
+#para10{
+    position: relative;
+    margin-left: 220px;
+    margin-top: 10px;
+    font-size: 20px;
+    color: white;
+}
+#para11{
+    position: relative;
+    margin-left: 220px;
+    margin-top: 10px;
+    font-size: 20px;
+    color: white;
+}
+#para12{
+    position: relative;
+    margin-left: 220px;
+    margin-top: 10px;
+    font-size: 20px;
+    color: white;
+}
+#demo{
+    font-size: 30px;
+    color: burlywood;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    margin-top: 10px;
+    margin-right: 360px;
+}
+#demo1{
+    position: relative;
+    font-size: 20px;
+    color: white;
+    margin-left:976px;
+    margin-top:-125px
+}
+#demo2{
+    position: relative;
+    font-size: 20px;
+    color: white;
+    margin-left:976px;
+    margin-top:10px
+}
+#demo3{
+    position: relative;
+    font-size: 20px;
+    color: white;
+    margin-left:976px;
+    margin-top:10px
+}
+#demo4{
+    position: relative;
+    font-size: 20px;
+    color: white;
+    margin-left:976px;
+    margin-top:10px
+}
+#demo5{
+    height: 500px;
+    width: 100%;
+    background-image: url("https://media.istockphoto.com/id/1442417585/photo/person-getting-a-piece-of-cheesy-pepperoni-pizza.webp?s=2048x2048&w=is&k=20&c=5qfqYi5DEhhVjJ-DIYB4MxUq31EmkvyEnNgNLm5LVpY=");
+    background-repeat: no-repeat;
+    background-size:100% 500px;
+    /* background-attachment: fixed; */
+    margin-top: 200px;
+    filter: opacity(30%);
+}
+#demo6{
+    font-size:70px;
+    color: burlywood;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin-bottom: -1000px;
+    margin-top: -230px;
+    position: relative;
+}
+#demo7{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    background-image: radial-gradient(white,white 100% );
+    border-radius: 50%;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 700px;
+    margin-top:1010px;
+    font-size: 20px;
+    color: black;
+}
+#demo8{
+    height:300px;
+    width:400px;
+    background-image: url("https://cdn.pixabay.com/photo/2016/01/22/20/23/burger-1156564_1280.jpg");
+    background-repeat: no-repeat;
+    background-size:400px 300px;
+    margin-top:150px;
+    margin-left: 100px;
+}
+#demo9{
+    height: 300px;
+    width: 400px;
+    background-image: url("https://cdn.pixabay.com/photo/2015/11/19/10/38/food-1050813_640.jpg");
+    background-size: 400px 300px;
+    background-repeat: no-repeat;
+    margin-top:-300px ;
+    margin-left:580px;
+}
+#demo10{
+    height: 300px;
+    width: 400px;
+    background-image: url("https://cdn.pixabay.com/photo/2016/05/09/18/25/milk-1382186_640.jpg");
+    background-repeat: no-repeat;
+    background-size: 400px 300px;
+    margin-left:1050px ;
+    margin-top:-300px ;
+}
+#demo11{
+    font-size: 50px;
+    color: burlywood;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50px;
+    margin-left:650px;
+}
+#demo12{
+    font-size: 30px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left:-700px;
+    margin-top: 50px;
+}
+#demo13{
+    font-size: 30px;
+    color: white;
+    margin-left:1100px;
+    margin-top:-30px;
+}
+#demo14{
+    font-size: 30px;
+    color: white;
+    margin-left:310px;
+    margin-top:20px;
+}
+#demo15{
+    font-size: 30px;
+    color: white;
+    margin-left:1100px;
+    margin-top:-31px;
+}
+#demo16{
+    font-size: 30px;
+    color: white;
+    margin-left:310px;
+    margin-top:20px;
+}
+#demo17{
+    font-size: 30px;
+    color: white;
+    margin-left:1100px;
+    margin-top:-31px;
+}
+#demo18{
+    font-size: 30px;
+    color: white;
+    margin-left:310px;
+    margin-top:20px;
+}
+#demo19{
+    font-size: 30px;
+    color: white;
+    margin-left:1100px;
+    margin-top:-31px;
+}
+#demo20{
+    font-size: 30px;
+    color: white;
+    margin-left:310px;
+    margin-top:20px;
+}
+#demo21{
+    font-size: 30px;
+    color: white;
+    margin-left:1100px;
+    margin-top:-31px;
+}
+#demo22{
+    font-size: 30px;
+    color: white;
+    margin-left:310px;
+    margin-top:20px;
+}
+#demo23{
+    font-size: 30px;
+    color: white;
+    margin-left:1100px;
+    margin-top:-31px;
+}
+#demo24{
+    font-size: 30px;
+    color: white;
+    margin-left:310px;
+    margin-top:20px;
+}
+#demo25{
+    font-size: 30px;
+    color: white;
+    margin-left:1100px;
+    margin-top:-31px;
+}
+#demo26{
+    font-size:70px;
+    color: burlywood;
+
+}
+#aa{
+    padding: 5px 25px 5px 50px ;
+    text-align: center;
+}
+
+#demo28{
+    font-size: 20px;
+    color: black;
+    margin-left:-650px;
+    font-style: normal;
+
+}
+#demo29{
+    font-size: 20px;
+    color:black;
+    margin-right:100px;
+}
+form{
+    font-size: 30px;
+    line-height: normal;
+}
